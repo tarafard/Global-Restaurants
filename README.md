@@ -4,7 +4,6 @@
 The project is for a food critic client who has been visiting fine restaurants. I have an Excel file with the location of each restaurant visited last year, along with cuisine and Michelin star info.
 
 
-
 ## Visualize the Data by Tableau
 
 <p align="Left">
